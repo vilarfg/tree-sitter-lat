@@ -170,9 +170,13 @@ module.exports = grammar({
       seq(
         '@',
         w.op,
-        $.id,
+        optional(
+          seq(
+            choice($.id, $.drop),
         optional(seq(w.comma, $.map_dest)),
         w.optComma,
+          )
+        ),
         w.cp,
         w.arrow,
         w.oc,
