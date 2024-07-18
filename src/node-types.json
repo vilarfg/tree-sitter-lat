@@ -2767,6 +2767,33 @@
       "required": true,
       "types": [
         {
+          "type": "drop",
+          "named": true
+        },
+        {
+          "type": "function_body",
+          "named": true
+        },
+        {
+          "type": "id",
+          "named": true
+        },
+        {
+          "type": "map_dest",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "function_body",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
           "type": "add",
           "named": true
         },
@@ -2819,10 +2846,6 @@
           "named": true
         },
         {
-          "type": "id",
-          "named": true
-        },
-        {
           "type": "if",
           "named": true
         },
@@ -2856,10 +2879,6 @@
         },
         {
           "type": "map",
-          "named": true
-        },
-        {
-          "type": "map_dest",
           "named": true
         },
         {
