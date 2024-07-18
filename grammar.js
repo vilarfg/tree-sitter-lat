@@ -173,16 +173,17 @@ module.exports = grammar({
         optional(
           seq(
             choice($.id, $.drop),
-        optional(seq(w.comma, $.map_dest)),
-        w.optComma,
+            optional(seq(w.comma, $.map_dest)),
+            w.optComma,
           )
         ),
         w.cp,
         w.arrow,
-        w.oc,
-        optional(seq($._function, repeat(seq(w.comma, $._function)), w.optComma)),
-        w.cc
+        $.function_body
       ),
+    function_body: $=> seq(w.oc,
+      optional(seq($._function, repeat(seq(w.comma, $._function)), w.optComma)),
+      w.cc),
     _function: ($) => choice($._expr, $.end, $.let),
 
     not: ($) => prec.left(80, seq(w.not, $._expr)),
