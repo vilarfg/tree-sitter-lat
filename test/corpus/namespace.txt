@@ -1,0 +1,28 @@
+============================================
+Namespace
+============================================
+
+x: @null
+x {
+    x {
+        x: 42
+        x: {
+            x: 42
+        }
+    }
+}
+
+----
+
+(source
+    (definition (key) (null))
+    (definition (key) (namespace
+        (definition
+            (key)
+            (namespace
+                (definition (key) (dec))
+                (definition (key) (map (pair (key (id)) (dec))))
+            )
+        )
+    ))
+)

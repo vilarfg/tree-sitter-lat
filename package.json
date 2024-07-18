@@ -1,0 +1,72 @@
+{
+  "name": "tree-sitter-lat",
+  "version": "0.1.0",
+  "description": "LAT grammar for tree-sitter",
+  "repository": {
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vilarfg/tree-sitter-lat.git"
+    }
+  },
+  "main": "bindings/node",
+  "types": "bindings/node",
+  "scripts": {
+    "build-wasm": "tree-sitter build --wasm",
+    "build": "tree-sitter generate --no-bindings",
+    "install": "node-gyp-build",
+    "lint": "eslint grammar.js",
+    "parse": "tree-sitter parse",
+    "prebuildify": "prebuildify --napi --strip",
+    "test": "tree-sitter test"
+  },
+  "keywords": [
+    "tree-sitter",
+    "LAT"
+  ],
+  "files": [
+    "grammar.js",
+    "binding.gyp",
+    "prebuilds/**",
+    "bindings/node/*",
+    "queries/*",
+    "src/**"
+  ],
+  "author": {
+    "name": "Fernando G. Vilar"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-addon-api": "^7.1.0",
+    "node-gyp-build": "^4.8.1"
+  },
+  "peerDependencies": {
+    "tree-sitter": "^0.21.0"
+  },
+  "peerDependenciesMeta": {
+    "tree_sitter": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.1.3",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "eslint-plugin-sort-destructure-keys": "^1.6.0",
+    "eslint-plugin-sort-keys-fix": "^1.1.2",
+    "prebuildify": "^6.0.1",
+    "prettier": "^3.3.2",
+    "tree-sitter-cli": "^0.22.6"
+  },
+  "tree-sitter": [
+    {
+      "scope": "source.lat",
+      "file-types": [
+        "lat"
+      ],
+      "injection-regex": "^lat$",
+      "highlights": "queries/highlights.scm"
+    }
+  ]
+}

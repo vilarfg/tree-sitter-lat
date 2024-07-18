@@ -1,0 +1,74 @@
+============================================
+List destructuring
+============================================
+
+x: [
+    @let [
+        |! documents `a`. |
+        a,
+        |? comments on dropping two items from the list. |
+        _ 2,
+        b @fallback 42, ||? this one has a fallback value
+        ||! documents the rest identifier
+        ...rest
+    ]: y;
+]
+
+----
+
+(source
+    (definition (key) 
+        (list
+            (let
+                (list_dest
+                    (doc (notes))
+                    (var (id))
+                    (comment (notes))
+                    (drop (places))
+                    (var (id) (fallback (dec)))
+                    (comment (notes))
+                    (doc (notes))
+                    (rest (id))
+                )
+                (ref (path (id)))
+            )
+        )
+    )
+) 
+
+============================================
+Map destructuring
+============================================
+
+x: [
+    @let {
+        |! documents `a`. |
+        a,
+        b @fallback 42, ||? this one has a fallback value
+        ||! documents the rest identifier
+        ...rest
+    }: y;
+]
+
+----
+
+(source
+    (definition (key) 
+        (list
+            (let
+                (map_dest
+                    (doc (notes))
+                    (key (id))
+                    (key (id) (fallback (dec)))
+                    (comment (notes))
+                    (doc (notes))
+                    (rest (id))
+                )
+                (ref (path (id)))
+            )
+        )
+    )
+) 
+
+
+
