@@ -17086,7 +17086,7 @@
     "fields": {},
     "children": {
       "multiple": true,
-      "required": false,
+      "required": true,
       "types": [
         {
           "type": "definition_key",
@@ -18184,9 +18184,19 @@
           }
         ]
       },
+      "options": {
+        "multiple": false,
+        "required": false,
+        "types": [
+          {
+            "type": "dictionary",
+            "named": true
+          }
+        ]
+      },
       "path": {
         "multiple": false,
-        "required": true,
+        "required": false,
         "types": [
           {
             "type": "path_to_expression",
@@ -18222,7 +18232,7 @@
       },
       "path": {
         "multiple": false,
-        "required": true,
+        "required": false,
         "types": [
           {
             "type": "path_to_global",

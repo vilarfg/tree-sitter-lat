@@ -1386,8 +1386,15 @@ export const makeGrammar = (l10n?: L10n) => {
       html_custom: () => /[A-Za-z]+(-[A-Za-z]+)+/,
 
       reference_to_global: ($) =>
-        prec.right(seq(field('path', $.path_to_global), optional($._options), optional($._call))),
-      path_to_global: ($) => seq(w.global, repeat(seq('.', $.definition_key))),
+        prec.right(
+          seq(
+            w.global,
+            optional(field('path', $.path_to_global)),
+            optional($._options),
+            optional($._call)
+          )
+        ),
+      path_to_global: ($) => repeat1(seq('.', $.definition_key)),
       reference_to_local: ($) =>
         prec.right(seq(field('path', $.path_to_local), optional($._options), optional($._call))),
       path_to_local: ($) =>
@@ -1484,7 +1491,14 @@ export const makeGrammar = (l10n?: L10n) => {
         ),
 
       reference_to_expression: ($) =>
-        seq(w.root, field('path', $.path_to_expression), optional($._call)),
+        prec.right(
+          seq(
+            w.root,
+            optional(field('path', $.path_to_expression)),
+            optional($._options),
+            optional($._call)
+          )
+        ),
       path_to_expression: ($) => repeat1(seq('.', $.definition_key)),
 
       _options: ($) => field('options', $.dictionary),

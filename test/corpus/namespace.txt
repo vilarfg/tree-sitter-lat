@@ -2,10 +2,10 @@
 Namespace
 ============================================
 
-x: @null
+x: @null,
 x {
     x {
-        x: 42
+        x: 42,
         x: {
             x: 42
         }
@@ -15,14 +15,22 @@ x {
 ----
 
 (source
-    (definition (key) (null))
-    (definition (key) (namespace
-        (definition
-            (key)
-            (namespace
-                (definition (key) (dec))
-                (definition (key) (map (pair (key (id)) (dec))))
-            )
-        )
-    ))
-)
+  (definition
+    (definition_key)
+    (ref_to_null))
+  (definition
+    (definition_key)
+    (namespace
+      (definition
+        (definition_key)
+        (namespace
+          (definition
+            (definition_key)
+            (decimal))
+          (definition
+            (definition_key)
+            (dictionary
+              (pair
+                (dictionary_key
+                  (id))
+                (decimal)))))))))

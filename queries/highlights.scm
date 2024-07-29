@@ -2,7 +2,7 @@
 [ "(" ")"
 	"interpolation_start"
 	"interpolation_end"
-    "namespace_start"
+  "namespace_start"
 	"namespace_end"
 	"list_start"
 	"list_end"
@@ -12,6 +12,10 @@
 	"clauses_end"
 	"call_start"
 	"call_end"
+	"function_body_start"
+	"function_body_end"
+	"cases_start"
+	"cases_end"
 ]  @punctuation.bracket
 [ (multiple_line_doc) (single_line_doc) (multiple_line_comment) (single_line_comment) ] @comment
 [ (false)  (true)

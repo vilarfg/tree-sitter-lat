@@ -17,24 +17,32 @@ x: [
 ----
 
 (source
-    (definition (key) 
-        (list
-            (let
-                (list_dest
-                    (doc (notes))
-                    (var (id))
-                    (comment (notes))
-                    (drop (places))
-                    (var (id) (fallback (dec)))
-                    (comment (notes))
-                    (doc (notes))
-                    (rest (id))
-                )
-                (ref (path (id)))
-            )
-        )
-    )
-) 
+  (definition
+    (definition_key)
+    (list
+      (let
+        (list_destructuring
+          (multiple_line_doc
+            (multiline_doc_note))
+          (var
+            (id))
+          (multiple_line_comment
+            (multiline_comment_note))
+          (drop
+            (decimal))
+          (var
+            (id)
+            (fallback
+              (decimal)))
+          (single_line_comment
+            (comment_note))
+          (single_line_doc
+            (doc_note))
+          (rest
+            (id)))
+        (reference_to_local
+          (path_to_local
+            (id)))))))
 
 ============================================
 Map destructuring
@@ -53,22 +61,25 @@ x: [
 ----
 
 (source
-    (definition (key) 
-        (list
-            (let
-                (map_dest
-                    (doc (notes))
-                    (key (id))
-                    (key (id) (fallback (dec)))
-                    (comment (notes))
-                    (doc (notes))
-                    (rest (id))
-                )
-                (ref (path (id)))
-            )
-        )
-    )
-) 
-
-
-
+  (definition
+    (definition_key)
+    (list
+      (let
+        (dictionary_destructuring
+          (multiple_line_doc
+            (multiline_doc_note))
+          (dictionary_key
+            (id))
+          (dictionary_key
+            (id)
+            (fallback
+              (decimal)))
+          (single_line_comment
+            (comment_note))
+          (single_line_doc
+            (doc_note))
+          (rest
+            (id)))
+        (reference_to_local
+          (path_to_local
+            (id)))))))

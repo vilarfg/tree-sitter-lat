@@ -2,47 +2,116 @@
 Call
 ============================================
 
-_a: @global.html.a
-_strong: @global.html.strong
-x: @root._a{ href: "/" }("home")
-y: @root._a{ href: "/docs" }"docs"
+_a: @html.a,
+_strong: @html.strong,
+x: @root._a{ href: "/" }("home"),
+y: @root._a{ href: "/docs" }"docs",
 z: @root._a{ href: "/blog" }(@root._strong"blog")
 
 ----
 
 (source
-    (definition (key) (ref (path (global) (id) (id))))
-    (definition (key) (ref (path (global) (id) (id))))
-    (definition (key) (ref (path (root) (id)) (map (pair (key (id)) (text (s)))) (call (text (s)))))
-    (definition (key) (ref (path (root) (id)) (map (pair (key (id)) (text (s)))) (call (text (s)))))
-    (definition (key) (ref (path (root) (id)) (map (pair (key (id)) (text (s)))) (call (ref (path (root) (id)) (call (text (s)))))))
-)
-
+  (definition
+    (definition_key)
+    (ref_to_html
+      (html_tag)))
+  (definition
+    (definition_key)
+    (ref_to_html
+      (html_tag)))
+  (definition
+    (definition_key)
+    (reference_to_expression
+      (path_to_expression
+        (definition_key))
+      (dictionary
+        (pair
+          (dictionary_key
+            (id))
+          (text
+            (literal
+              (string)))))
+      (call
+        (text
+          (literal
+            (string))))))
+  (definition
+    (definition_key)
+    (reference_to_expression
+      (path_to_expression
+        (definition_key))
+      (dictionary
+        (pair
+          (dictionary_key
+            (id))
+          (text
+            (literal
+              (string)))))
+      (call
+        (text
+          (literal
+            (string))))))
+  (definition
+    (definition_key)
+    (reference_to_expression
+      (path_to_expression
+        (definition_key))
+      (dictionary
+        (pair
+          (dictionary_key
+            (id))
+          (text
+            (literal
+              (string)))))
+      (call
+        (reference_to_expression
+          (path_to_expression
+            (definition_key))
+          (call
+            (text
+              (literal
+                (string)))))))))
 
 ============================================
 Partial application
 ============================================
 
-_x: @global.html.a{ target:"_blank", rel:"noopener noreferrer"}
+_x: @html.a{ target:"_blank", rel:"noopener noreferrer"},
 y: @root._x{ href: "/" }("home")
 
 ----
+
 (source
-    (definition (key)
-        (ref
-            (path (global) (id) (id))
-            (map
-                (pair (key (id)) (text (s)))
-                (pair (key (id)) (text (s)))
-            )
-        )
-    )
-    (definition (key)
-        (ref (path (root) (id))
-            (map (pair (key (id)) (text (s))))
-            (call (text (s)))
-        )
-    )
-)
-
-
+  (definition
+    (definition_key)
+    (ref_to_html
+      (html_tag)
+      (dictionary
+        (pair
+          (dictionary_key
+            (id))
+          (text
+            (literal
+              (string))))
+        (pair
+          (dictionary_key
+            (id))
+          (text
+            (literal
+              (string)))))))
+  (definition
+    (definition_key)
+    (reference_to_expression
+      (path_to_expression
+        (definition_key))
+      (dictionary
+        (pair
+          (dictionary_key
+            (id))
+          (text
+            (literal
+              (string)))))
+      (call
+        (text
+          (literal
+            (string)))))))
