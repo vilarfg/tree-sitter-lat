@@ -572,10 +572,10 @@ export const makeLocalizedToken = (rule: string, prefix: string, allowSpecialSym
   let trailingSpace = false;
   if (prefix) choices.push(prefix);
   for (const letter of rule)
-    if (/\s/u.test(letter)) trailingSpace = true;
+    if (/_|\s/u.test(letter)) trailingSpace = true;
     else {
       if (trailingSpace) {
-        choices.push(optional(choice(repeat1('_'), repeat1(' '))));
+        choices.push(repeat('_'));
         if (allowSpecialSymbol) choices.push(optional('@'));
         trailingSpace = false;
       }
@@ -688,6 +688,7 @@ export const localize = (l10n?: L10n) => {
   w.not = choice(w.not, '!');
   w.and = choice(w.and, '&', '&&');
   w.or = choice(w.or, '|', '||');
+  w.remainder = choice(w.remainder, '%');
   w.to = choice(w.to, '..=');
   w.until = choice(w.until, '..');
 
@@ -728,6 +729,8 @@ const binary = (
     level,
     seq(choice(field('left', $._expr)), operator, choice(field('right', $._expr)))
   );
+
+const a = Number.MAX_SAFE_INTEGER;
 
 export const makeGrammar = (l10n?: L10n) => {
   const w = localize(l10n);
@@ -980,7 +983,7 @@ export const makeGrammar = (l10n?: L10n) => {
 
           $.function,
 
-          $.ref,
+          $._ref,
 
           $.parenthesized
         ),
@@ -1338,7 +1341,7 @@ export const makeGrammar = (l10n?: L10n) => {
 
       end: ($) => seq(w.end, optional(seq(w.if, $._expr))),
 
-      ref: ($) =>
+      _ref: ($) =>
         choice(
           $.ref_to_type,
           $.ref_to_null,
@@ -1351,12 +1354,12 @@ export const makeGrammar = (l10n?: L10n) => {
           $.ref_to_unknown,
 
           $.ref_to_html,
+          $.reference_to_global,
 
-          $.reference_to_expression
+          $.reference_to_expression,
+          $.reference_to_local
 
-          // TODO: ref to local variable
-          // TODO: ref to global
-          // TODO: ref to builtin
+          // TODO: ref to builtin html, time
         ),
 
       ref_to_html: ($) =>
@@ -1377,10 +1380,31 @@ export const makeGrammar = (l10n?: L10n) => {
           )
         ),
 
-      html_tag: ($) => choice(...html_tags),
-      html_experimental_tag: ($) => choice(...html_experimental_tags),
-      html_deprecated_tag: ($) => choice(...html_deprecated_tags),
+      html_tag: () => choice(...html_tags),
+      html_experimental_tag: () => choice(...html_experimental_tags),
+      html_deprecated_tag: () => choice(...html_deprecated_tags),
       html_custom: () => /[A-Za-z]+(-[A-Za-z]+)+/,
+
+      reference_to_global: ($) =>
+        prec.right(seq(field('path', $.path_to_global), optional($._options), optional($._call))),
+      path_to_global: ($) => seq(w.global, repeat(seq('.', $.definition_key))),
+      reference_to_local: ($) =>
+        prec.right(seq(field('path', $.path_to_local), optional($._options), optional($._call))),
+      path_to_local: ($) =>
+        seq(
+          $.id,
+          repeat(
+            seq(
+              '.',
+              choice(
+                alias(/[\p{Alphabetic}\p{Number}_]+/u, $.id),
+                $._number,
+                $.text,
+                $.parenthesized
+              )
+            )
+          )
+        ),
 
       ref_to_type: ($) => prec.right(seq(w.type, optional($._options), optional($._call))),
       ref_to_null: ($) => prec.right(seq(w.null, optional($._options), optional($._call))),
@@ -1483,7 +1507,7 @@ export const makeGrammar = (l10n?: L10n) => {
 
       var: ($) => seq(field('id', $.id), optional(field('fallback', $.fallback))),
 
-      id: () => /_?[\p{Alphabetic}][\p{Alphabetic}_0-9]*/u,
+      id: () => /_?[\p{Alphabetic}][\p{Alphabetic}\p{Number}_]*/u,
 
       fallback: ($) => prec.left(80, seq(w.fallback, field('expression', $._expr))),
     },

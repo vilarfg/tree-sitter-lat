@@ -44,3 +44,5 @@ config.json
 *.wasm
 
 Makefile
+
+grammar_maker.js

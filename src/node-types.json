@@ -152,7 +152,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -322,7 +370,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -498,7 +594,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -668,7 +812,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -860,7 +1052,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -1046,7 +1286,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -1240,7 +1528,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -1619,7 +1955,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -1795,7 +2179,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -1971,7 +2403,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -2147,7 +2627,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -2323,7 +2851,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -2499,7 +3075,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -2675,7 +3299,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -2851,7 +3523,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -3027,7 +3747,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -3279,7 +4047,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -3601,7 +4417,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -3845,7 +4709,55 @@
           "named": true
         },
         {
-          "type": "ref",
+          "type": "ref_to_dictionary",
+          "named": true
+        },
+        {
+          "type": "ref_to_function",
+          "named": true
+        },
+        {
+          "type": "ref_to_html",
+          "named": true
+        },
+        {
+          "type": "ref_to_list",
+          "named": true
+        },
+        {
+          "type": "ref_to_logical",
+          "named": true
+        },
+        {
+          "type": "ref_to_null",
+          "named": true
+        },
+        {
+          "type": "ref_to_number",
+          "named": true
+        },
+        {
+          "type": "ref_to_text",
+          "named": true
+        },
+        {
+          "type": "ref_to_type",
+          "named": true
+        },
+        {
+          "type": "ref_to_unknown",
+          "named": true
+        },
+        {
+          "type": "reference_to_expression",
+          "named": true
+        },
+        {
+          "type": "reference_to_global",
+          "named": true
+        },
+        {
+          "type": "reference_to_local",
           "named": true
         },
         {
@@ -4020,7 +4932,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -4206,7 +5166,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -4601,7 +5609,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -4771,7 +5827,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -4947,7 +6051,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -5117,7 +6269,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -5381,7 +6581,55 @@
           "named": true
         },
         {
-          "type": "ref",
+          "type": "ref_to_dictionary",
+          "named": true
+        },
+        {
+          "type": "ref_to_function",
+          "named": true
+        },
+        {
+          "type": "ref_to_html",
+          "named": true
+        },
+        {
+          "type": "ref_to_list",
+          "named": true
+        },
+        {
+          "type": "ref_to_logical",
+          "named": true
+        },
+        {
+          "type": "ref_to_null",
+          "named": true
+        },
+        {
+          "type": "ref_to_number",
+          "named": true
+        },
+        {
+          "type": "ref_to_text",
+          "named": true
+        },
+        {
+          "type": "ref_to_type",
+          "named": true
+        },
+        {
+          "type": "ref_to_unknown",
+          "named": true
+        },
+        {
+          "type": "reference_to_expression",
+          "named": true
+        },
+        {
+          "type": "reference_to_global",
+          "named": true
+        },
+        {
+          "type": "reference_to_local",
           "named": true
         },
         {
@@ -5556,7 +6804,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -5726,7 +7022,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -5902,7 +7246,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -6072,7 +7464,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -6248,7 +7688,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -6424,7 +7912,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -6642,7 +8178,55 @@
           "named": true
         },
         {
-          "type": "ref",
+          "type": "ref_to_dictionary",
+          "named": true
+        },
+        {
+          "type": "ref_to_function",
+          "named": true
+        },
+        {
+          "type": "ref_to_html",
+          "named": true
+        },
+        {
+          "type": "ref_to_list",
+          "named": true
+        },
+        {
+          "type": "ref_to_logical",
+          "named": true
+        },
+        {
+          "type": "ref_to_null",
+          "named": true
+        },
+        {
+          "type": "ref_to_number",
+          "named": true
+        },
+        {
+          "type": "ref_to_text",
+          "named": true
+        },
+        {
+          "type": "ref_to_type",
+          "named": true
+        },
+        {
+          "type": "ref_to_unknown",
+          "named": true
+        },
+        {
+          "type": "reference_to_expression",
+          "named": true
+        },
+        {
+          "type": "reference_to_global",
+          "named": true
+        },
+        {
+          "type": "reference_to_local",
           "named": true
         },
         {
@@ -6817,7 +8401,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -6987,7 +8619,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -7163,7 +8843,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -7333,7 +9061,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -7540,7 +9316,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -7710,7 +9534,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -7880,7 +9752,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -8056,7 +9976,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -8226,7 +10194,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -8418,7 +10434,55 @@
           "named": true
         },
         {
-          "type": "ref",
+          "type": "ref_to_dictionary",
+          "named": true
+        },
+        {
+          "type": "ref_to_function",
+          "named": true
+        },
+        {
+          "type": "ref_to_html",
+          "named": true
+        },
+        {
+          "type": "ref_to_list",
+          "named": true
+        },
+        {
+          "type": "ref_to_logical",
+          "named": true
+        },
+        {
+          "type": "ref_to_null",
+          "named": true
+        },
+        {
+          "type": "ref_to_number",
+          "named": true
+        },
+        {
+          "type": "ref_to_text",
+          "named": true
+        },
+        {
+          "type": "ref_to_type",
+          "named": true
+        },
+        {
+          "type": "ref_to_unknown",
+          "named": true
+        },
+        {
+          "type": "reference_to_expression",
+          "named": true
+        },
+        {
+          "type": "reference_to_global",
+          "named": true
+        },
+        {
+          "type": "reference_to_local",
           "named": true
         },
         {
@@ -8597,7 +10661,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -8767,7 +10879,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -8943,7 +11103,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -9113,7 +11321,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -9289,7 +11545,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -9475,7 +11779,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -9645,7 +11997,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -9821,7 +12221,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -9991,7 +12439,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -10167,7 +12663,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -10377,7 +12921,55 @@
           "named": true
         },
         {
-          "type": "ref",
+          "type": "ref_to_dictionary",
+          "named": true
+        },
+        {
+          "type": "ref_to_function",
+          "named": true
+        },
+        {
+          "type": "ref_to_html",
+          "named": true
+        },
+        {
+          "type": "ref_to_list",
+          "named": true
+        },
+        {
+          "type": "ref_to_logical",
+          "named": true
+        },
+        {
+          "type": "ref_to_null",
+          "named": true
+        },
+        {
+          "type": "ref_to_number",
+          "named": true
+        },
+        {
+          "type": "ref_to_text",
+          "named": true
+        },
+        {
+          "type": "ref_to_type",
+          "named": true
+        },
+        {
+          "type": "ref_to_unknown",
+          "named": true
+        },
+        {
+          "type": "reference_to_expression",
+          "named": true
+        },
+        {
+          "type": "reference_to_global",
+          "named": true
+        },
+        {
+          "type": "reference_to_local",
           "named": true
         },
         {
@@ -10739,7 +13331,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -10909,7 +13549,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -11085,7 +13773,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -11255,7 +13991,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -11463,7 +14247,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -11633,7 +14465,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -11824,7 +14704,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -12000,7 +14928,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -12176,7 +15152,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -12346,7 +15370,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -12715,7 +15787,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -12885,7 +16005,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -13066,7 +16234,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -13236,7 +16452,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -13426,7 +16690,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -13602,7 +16914,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -13715,6 +17075,60 @@
       "types": [
         {
           "type": "definition_key",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "path_to_global",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "definition_key",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "path_to_local",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "binary",
+          "named": true
+        },
+        {
+          "type": "decimal",
+          "named": true
+        },
+        {
+          "type": "hexadecimal",
+          "named": true
+        },
+        {
+          "type": "id",
+          "named": true
+        },
+        {
+          "type": "octal",
+          "named": true
+        },
+        {
+          "type": "parenthesized",
+          "named": true
+        },
+        {
+          "type": "text",
           "named": true
         }
       ]
@@ -13873,7 +17287,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -14057,7 +17519,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -14233,7 +17743,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -14274,61 +17832,6 @@
           }
         ]
       }
-    }
-  },
-  {
-    "type": "ref",
-    "named": true,
-    "fields": {},
-    "children": {
-      "multiple": false,
-      "required": true,
-      "types": [
-        {
-          "type": "ref_to_dictionary",
-          "named": true
-        },
-        {
-          "type": "ref_to_function",
-          "named": true
-        },
-        {
-          "type": "ref_to_html",
-          "named": true
-        },
-        {
-          "type": "ref_to_list",
-          "named": true
-        },
-        {
-          "type": "ref_to_logical",
-          "named": true
-        },
-        {
-          "type": "ref_to_null",
-          "named": true
-        },
-        {
-          "type": "ref_to_number",
-          "named": true
-        },
-        {
-          "type": "ref_to_text",
-          "named": true
-        },
-        {
-          "type": "ref_to_type",
-          "named": true
-        },
-        {
-          "type": "ref_to_unknown",
-          "named": true
-        },
-        {
-          "type": "reference_to_expression",
-          "named": true
-        }
-      ]
     }
   },
   {
@@ -14694,6 +18197,78 @@
     }
   },
   {
+    "type": "reference_to_global",
+    "named": true,
+    "fields": {
+      "call": {
+        "multiple": false,
+        "required": false,
+        "types": [
+          {
+            "type": "call",
+            "named": true
+          }
+        ]
+      },
+      "options": {
+        "multiple": false,
+        "required": false,
+        "types": [
+          {
+            "type": "dictionary",
+            "named": true
+          }
+        ]
+      },
+      "path": {
+        "multiple": false,
+        "required": true,
+        "types": [
+          {
+            "type": "path_to_global",
+            "named": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "reference_to_local",
+    "named": true,
+    "fields": {
+      "call": {
+        "multiple": false,
+        "required": false,
+        "types": [
+          {
+            "type": "call",
+            "named": true
+          }
+        ]
+      },
+      "options": {
+        "multiple": false,
+        "required": false,
+        "types": [
+          {
+            "type": "dictionary",
+            "named": true
+          }
+        ]
+      },
+      "path": {
+        "multiple": false,
+        "required": true,
+        "types": [
+          {
+            "type": "path_to_local",
+            "named": true
+          }
+        ]
+      }
+    }
+  },
+  {
     "type": "remainder",
     "named": true,
     "fields": {
@@ -14846,7 +18421,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -15016,7 +18639,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -15212,7 +18883,55 @@
           "named": true
         },
         {
-          "type": "ref",
+          "type": "ref_to_dictionary",
+          "named": true
+        },
+        {
+          "type": "ref_to_function",
+          "named": true
+        },
+        {
+          "type": "ref_to_html",
+          "named": true
+        },
+        {
+          "type": "ref_to_list",
+          "named": true
+        },
+        {
+          "type": "ref_to_logical",
+          "named": true
+        },
+        {
+          "type": "ref_to_null",
+          "named": true
+        },
+        {
+          "type": "ref_to_number",
+          "named": true
+        },
+        {
+          "type": "ref_to_text",
+          "named": true
+        },
+        {
+          "type": "ref_to_type",
+          "named": true
+        },
+        {
+          "type": "ref_to_unknown",
+          "named": true
+        },
+        {
+          "type": "reference_to_expression",
+          "named": true
+        },
+        {
+          "type": "reference_to_global",
+          "named": true
+        },
+        {
+          "type": "reference_to_local",
           "named": true
         },
         {
@@ -15434,7 +19153,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -15610,7 +19377,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -15780,7 +19595,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -16079,7 +19942,55 @@
           "named": true
         },
         {
-          "type": "ref",
+          "type": "ref_to_dictionary",
+          "named": true
+        },
+        {
+          "type": "ref_to_function",
+          "named": true
+        },
+        {
+          "type": "ref_to_html",
+          "named": true
+        },
+        {
+          "type": "ref_to_list",
+          "named": true
+        },
+        {
+          "type": "ref_to_logical",
+          "named": true
+        },
+        {
+          "type": "ref_to_null",
+          "named": true
+        },
+        {
+          "type": "ref_to_number",
+          "named": true
+        },
+        {
+          "type": "ref_to_text",
+          "named": true
+        },
+        {
+          "type": "ref_to_type",
+          "named": true
+        },
+        {
+          "type": "ref_to_unknown",
+          "named": true
+        },
+        {
+          "type": "reference_to_expression",
+          "named": true
+        },
+        {
+          "type": "reference_to_global",
+          "named": true
+        },
+        {
+          "type": "reference_to_local",
           "named": true
         },
         {
@@ -16254,7 +20165,55 @@
             "named": true
           },
           {
-            "type": "ref",
+            "type": "ref_to_dictionary",
+            "named": true
+          },
+          {
+            "type": "ref_to_function",
+            "named": true
+          },
+          {
+            "type": "ref_to_html",
+            "named": true
+          },
+          {
+            "type": "ref_to_list",
+            "named": true
+          },
+          {
+            "type": "ref_to_logical",
+            "named": true
+          },
+          {
+            "type": "ref_to_null",
+            "named": true
+          },
+          {
+            "type": "ref_to_number",
+            "named": true
+          },
+          {
+            "type": "ref_to_text",
+            "named": true
+          },
+          {
+            "type": "ref_to_type",
+            "named": true
+          },
+          {
+            "type": "ref_to_unknown",
+            "named": true
+          },
+          {
+            "type": "reference_to_expression",
+            "named": true
+          },
+          {
+            "type": "reference_to_global",
+            "named": true
+          },
+          {
+            "type": "reference_to_local",
             "named": true
           },
           {
@@ -16317,6 +20276,10 @@
   },
   {
     "type": "\"",
+    "named": false
+  },
+  {
+    "type": "%",
     "named": false
   },
   {
@@ -16480,6 +20443,10 @@
     "named": false
   },
   {
+    "type": "@global",
+    "named": false
+  },
+  {
     "type": "@html",
     "named": false
   },
@@ -16600,52 +20567,12 @@
     "named": false
   },
   {
-    "type": "a",
-    "named": false
-  },
-  {
-    "type": "abbr",
-    "named": false
-  },
-  {
-    "type": "acronym",
-    "named": false
-  },
-  {
-    "type": "address",
-    "named": false
-  },
-  {
     "type": "alert_bell",
     "named": true
   },
   {
-    "type": "area",
-    "named": false
-  },
-  {
-    "type": "article",
-    "named": false
-  },
-  {
-    "type": "aside",
-    "named": false
-  },
-  {
-    "type": "audio",
-    "named": false
-  },
-  {
-    "type": "b",
-    "named": false
-  },
-  {
     "type": "backspace",
     "named": true
-  },
-  {
-    "type": "base",
-    "named": false
   },
   {
     "type": "base_bin",
@@ -16664,36 +20591,8 @@
     "named": false
   },
   {
-    "type": "bdi",
-    "named": false
-  },
-  {
-    "type": "bdo",
-    "named": false
-  },
-  {
-    "type": "big",
-    "named": false
-  },
-  {
     "type": "bin_value",
     "named": true
-  },
-  {
-    "type": "blockquote",
-    "named": false
-  },
-  {
-    "type": "body",
-    "named": false
-  },
-  {
-    "type": "br",
-    "named": false
-  },
-  {
-    "type": "button",
-    "named": false
   },
   {
     "type": "call_end",
@@ -16701,14 +20600,6 @@
   },
   {
     "type": "call_start",
-    "named": false
-  },
-  {
-    "type": "canvas",
-    "named": false
-  },
-  {
-    "type": "caption",
     "named": false
   },
   {
@@ -16721,10 +20612,6 @@
   },
   {
     "type": "cases_start",
-    "named": false
-  },
-  {
-    "type": "center",
     "named": false
   },
   {
@@ -16752,27 +20639,11 @@
     "named": true
   },
   {
-    "type": "cite",
-    "named": false
-  },
-  {
     "type": "clauses_end",
     "named": false
   },
   {
     "type": "clauses_start",
-    "named": false
-  },
-  {
-    "type": "code",
-    "named": false
-  },
-  {
-    "type": "col",
-    "named": false
-  },
-  {
-    "type": "colgroup",
     "named": false
   },
   {
@@ -16784,40 +20655,12 @@
     "named": false
   },
   {
-    "type": "data",
-    "named": false
-  },
-  {
-    "type": "datalist",
-    "named": false
-  },
-  {
-    "type": "dd",
-    "named": false
-  },
-  {
     "type": "decimal",
     "named": true
   },
   {
     "type": "definition_key",
     "named": true
-  },
-  {
-    "type": "del",
-    "named": false
-  },
-  {
-    "type": "details",
-    "named": false
-  },
-  {
-    "type": "dfn",
-    "named": false
-  },
-  {
-    "type": "dialog",
-    "named": false
   },
   {
     "type": "dictionary__entries",
@@ -16848,35 +20691,11 @@
     "named": false
   },
   {
-    "type": "dir",
-    "named": false
-  },
-  {
-    "type": "div",
-    "named": false
-  },
-  {
-    "type": "dl",
-    "named": false
-  },
-  {
     "type": "doc_note",
     "named": true
   },
   {
     "type": "doc_start",
-    "named": false
-  },
-  {
-    "type": "dt",
-    "named": false
-  },
-  {
-    "type": "em",
-    "named": false
-  },
-  {
-    "type": "embed",
     "named": false
   },
   {
@@ -16900,44 +20719,8 @@
     "named": true
   },
   {
-    "type": "fencedframe",
-    "named": false
-  },
-  {
-    "type": "fieldset",
-    "named": false
-  },
-  {
-    "type": "figcaption",
-    "named": false
-  },
-  {
-    "type": "figure",
-    "named": false
-  },
-  {
-    "type": "font",
-    "named": false
-  },
-  {
-    "type": "footer",
-    "named": false
-  },
-  {
-    "type": "form",
-    "named": false
-  },
-  {
     "type": "form_feed",
     "named": true
-  },
-  {
-    "type": "frame",
-    "named": false
-  },
-  {
-    "type": "frameset",
-    "named": false
   },
   {
     "type": "function_arguments_end",
@@ -16956,88 +20739,24 @@
     "named": false
   },
   {
-    "type": "h1",
-    "named": false
-  },
-  {
-    "type": "h2",
-    "named": false
-  },
-  {
-    "type": "h3",
-    "named": false
-  },
-  {
-    "type": "h4",
-    "named": false
-  },
-  {
-    "type": "h5",
-    "named": false
-  },
-  {
-    "type": "h6",
-    "named": false
-  },
-  {
-    "type": "head",
-    "named": false
-  },
-  {
-    "type": "header",
-    "named": false
-  },
-  {
     "type": "hex_value",
     "named": true
-  },
-  {
-    "type": "hgroup",
-    "named": false
   },
   {
     "type": "horizontal_tab",
     "named": true
   },
   {
-    "type": "hr",
-    "named": false
-  },
-  {
-    "type": "html",
-    "named": false
-  },
-  {
     "type": "html_custom",
     "named": true
-  },
-  {
-    "type": "i",
-    "named": false
   },
   {
     "type": "id",
     "named": true
   },
   {
-    "type": "iframe",
-    "named": false
-  },
-  {
-    "type": "img",
-    "named": false
-  },
-  {
     "type": "infinity",
     "named": true
-  },
-  {
-    "type": "input",
-    "named": false
-  },
-  {
-    "type": "ins",
-    "named": false
   },
   {
     "type": "interpolation_end",
@@ -17048,28 +20767,8 @@
     "named": false
   },
   {
-    "type": "kbd",
-    "named": false
-  },
-  {
-    "type": "label",
-    "named": false
-  },
-  {
-    "type": "legend",
-    "named": false
-  },
-  {
-    "type": "li",
-    "named": false
-  },
-  {
     "type": "line_feed",
     "named": true
-  },
-  {
-    "type": "link",
-    "named": false
   },
   {
     "type": "list__sort",
@@ -17101,34 +20800,6 @@
   },
   {
     "type": "logical__none",
-    "named": false
-  },
-  {
-    "type": "main",
-    "named": false
-  },
-  {
-    "type": "map",
-    "named": false
-  },
-  {
-    "type": "mark",
-    "named": false
-  },
-  {
-    "type": "marquee",
-    "named": false
-  },
-  {
-    "type": "menu",
-    "named": false
-  },
-  {
-    "type": "meta",
-    "named": false
-  },
-  {
-    "type": "meter",
     "named": false
   },
   {
@@ -17166,26 +20837,6 @@
   {
     "type": "nan",
     "named": true
-  },
-  {
-    "type": "nav",
-    "named": false
-  },
-  {
-    "type": "nobr",
-    "named": false
-  },
-  {
-    "type": "noembed",
-    "named": false
-  },
-  {
-    "type": "noframes",
-    "named": false
-  },
-  {
-    "type": "noscript",
-    "named": false
   },
   {
     "type": "number__absolute",
@@ -17336,172 +20987,20 @@
     "named": false
   },
   {
-    "type": "object",
-    "named": false
-  },
-  {
     "type": "oct_value",
     "named": true
-  },
-  {
-    "type": "ol",
-    "named": false
-  },
-  {
-    "type": "optgroup",
-    "named": false
-  },
-  {
-    "type": "option",
-    "named": false
-  },
-  {
-    "type": "output",
-    "named": false
-  },
-  {
-    "type": "p",
-    "named": false
-  },
-  {
-    "type": "param",
-    "named": false
-  },
-  {
-    "type": "picture",
-    "named": false
-  },
-  {
-    "type": "plaintext",
-    "named": false
-  },
-  {
-    "type": "portal",
-    "named": false
-  },
-  {
-    "type": "pre",
-    "named": false
-  },
-  {
-    "type": "progress",
-    "named": false
-  },
-  {
-    "type": "q",
-    "named": false
   },
   {
     "type": "quotation_mark",
     "named": true
   },
   {
-    "type": "rb",
-    "named": false
-  },
-  {
     "type": "reverse_solidus",
     "named": true
   },
   {
-    "type": "rp",
-    "named": false
-  },
-  {
-    "type": "rt",
-    "named": false
-  },
-  {
-    "type": "rtc",
-    "named": false
-  },
-  {
-    "type": "ruby",
-    "named": false
-  },
-  {
-    "type": "s",
-    "named": false
-  },
-  {
-    "type": "samp",
-    "named": false
-  },
-  {
-    "type": "script",
-    "named": false
-  },
-  {
-    "type": "search",
-    "named": false
-  },
-  {
-    "type": "section",
-    "named": false
-  },
-  {
-    "type": "select",
-    "named": false
-  },
-  {
-    "type": "slot",
-    "named": false
-  },
-  {
-    "type": "small",
-    "named": false
-  },
-  {
-    "type": "source",
-    "named": false
-  },
-  {
-    "type": "span",
-    "named": false
-  },
-  {
-    "type": "strike",
-    "named": false
-  },
-  {
     "type": "string",
     "named": true
-  },
-  {
-    "type": "strong",
-    "named": false
-  },
-  {
-    "type": "style",
-    "named": false
-  },
-  {
-    "type": "sub",
-    "named": false
-  },
-  {
-    "type": "summary",
-    "named": false
-  },
-  {
-    "type": "sup",
-    "named": false
-  },
-  {
-    "type": "table",
-    "named": false
-  },
-  {
-    "type": "tbody",
-    "named": false
-  },
-  {
-    "type": "td",
-    "named": false
-  },
-  {
-    "type": "template",
-    "named": false
   },
   {
     "type": "text__lowercase",
@@ -17516,72 +21015,12 @@
     "named": false
   },
   {
-    "type": "textarea",
-    "named": false
-  },
-  {
-    "type": "tfoot",
-    "named": false
-  },
-  {
-    "type": "th",
-    "named": false
-  },
-  {
-    "type": "thead",
-    "named": false
-  },
-  {
-    "type": "time",
-    "named": false
-  },
-  {
-    "type": "title",
-    "named": false
-  },
-  {
-    "type": "tr",
-    "named": false
-  },
-  {
-    "type": "track",
-    "named": false
-  },
-  {
     "type": "true",
     "named": true
   },
   {
-    "type": "tt",
-    "named": false
-  },
-  {
-    "type": "u",
-    "named": false
-  },
-  {
-    "type": "ul",
-    "named": false
-  },
-  {
-    "type": "var",
-    "named": false
-  },
-  {
     "type": "vertical_tab",
     "named": true
-  },
-  {
-    "type": "video",
-    "named": false
-  },
-  {
-    "type": "wbr",
-    "named": false
-  },
-  {
-    "type": "xmp",
-    "named": false
   },
   {
     "type": "|",
